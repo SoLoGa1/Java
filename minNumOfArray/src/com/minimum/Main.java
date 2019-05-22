@@ -10,7 +10,7 @@ public class Main {
 
         for (int i=0;i<arr.length-1;i++)
         {
-            if(min>arr[i+1])
+            if(min>arr[i+1]) // მეტობის ნიშნის მაგივრად ნაკლებობის ნიშანი დატოვებს უდიდეს წევრს
             {
                 min = arr[i+1];
             }
