@@ -1,3 +1,6 @@
+///// http://codeforces.com/problemset/problem/977/A  /////
+
+
 package com.Substraction;
 import java.util.Scanner;
 public class Main {
