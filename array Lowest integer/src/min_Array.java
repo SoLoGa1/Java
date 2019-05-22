@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class sorting {
+public class min_Array {
 
     public static void main(String[] args)
     {
